@@ -26,3 +26,9 @@
   <li>Customer Preferences: Customers in 'Tier 3' cities have shown the highest spending.</li>
   <li>Type of Food: The low fat food is dominating the food category with around 64.6% of total sales.</li>
 </ul>
+<img src="https://github.com/aryandwivedi486-max/Zepto_Sales_Analysis_Project/blob/main/Screenshot%202026-06-13%20174153.png" alt="Zepto Sales Analysis - Power BI Dashboard">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aryan-dwivedi-527b85342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zepto"
+ height="30" width="40" /></a>
+</p>
